@@ -1,6 +1,6 @@
 # Default ignored files
 /shelf/
-/workspace.xml
+/.idea/workspace.xml
 # Editor-based HTTP Client requests
 /httpRequests/
 # Datasource local storage ignored files
@@ -8,18 +8,11 @@
 /dataSources.local.xml
 # Zeppelin ignored files
 /ZeppelinRemoteNotebooks/
-# Eclipse
-.classpath
-.project
-.settings/
 
 # Intellij
 .idea/
 *.iml
 *.iws
-
-# Mac
-.DS_Store
 
 # Maven
 log/
