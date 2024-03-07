@@ -34,6 +34,4 @@ public class Cat {
                 ", age=" + age +
                 '}';
     }
-
-
 }
