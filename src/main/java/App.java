@@ -19,5 +19,6 @@ public class App {
 
         System.out.println("HelloWorld: " + (helloWorld1 == helloWorld2));
         System.out.println("Cat: " + (cat1==cat2));
+
     }
 }
